@@ -1,0 +1,14 @@
+C:\Users\avane\OneDrive\Escritorio\ClienteC#\bin\Debug\net9.0\ClienteC#.exe
+C:\Users\avane\OneDrive\Escritorio\ClienteC#\bin\Debug\net9.0\ClienteC#.deps.json
+C:\Users\avane\OneDrive\Escritorio\ClienteC#\bin\Debug\net9.0\ClienteC#.runtimeconfig.json
+C:\Users\avane\OneDrive\Escritorio\ClienteC#\bin\Debug\net9.0\ClienteC#.dll
+C:\Users\avane\OneDrive\Escritorio\ClienteC#\bin\Debug\net9.0\ClienteC#.pdb
+C:\Users\avane\OneDrive\Escritorio\ClienteC#\obj\Debug\net9.0\ClienteC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avane\OneDrive\Escritorio\ClienteC#\obj\Debug\net9.0\ClienteC#.AssemblyInfoInputs.cache
+C:\Users\avane\OneDrive\Escritorio\ClienteC#\obj\Debug\net9.0\ClienteC#.AssemblyInfo.cs
+C:\Users\avane\OneDrive\Escritorio\ClienteC#\obj\Debug\net9.0\ClienteC#.csproj.CoreCompileInputs.cache
+C:\Users\avane\OneDrive\Escritorio\ClienteC#\obj\Debug\net9.0\ClienteC#.dll
+C:\Users\avane\OneDrive\Escritorio\ClienteC#\obj\Debug\net9.0\refint\ClienteC#.dll
+C:\Users\avane\OneDrive\Escritorio\ClienteC#\obj\Debug\net9.0\ClienteC#.pdb
+C:\Users\avane\OneDrive\Escritorio\ClienteC#\obj\Debug\net9.0\ClienteC#.genruntimeconfig.cache
+C:\Users\avane\OneDrive\Escritorio\ClienteC#\obj\Debug\net9.0\ref\ClienteC#.dll
