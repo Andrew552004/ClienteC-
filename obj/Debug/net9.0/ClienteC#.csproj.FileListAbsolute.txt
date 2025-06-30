@@ -12,3 +12,4 @@ C:\Users\avane\OneDrive\Escritorio\ClienteC#\obj\Debug\net9.0\refint\ClienteC#.d
 C:\Users\avane\OneDrive\Escritorio\ClienteC#\obj\Debug\net9.0\ClienteC#.pdb
 C:\Users\avane\OneDrive\Escritorio\ClienteC#\obj\Debug\net9.0\ClienteC#.genruntimeconfig.cache
 C:\Users\avane\OneDrive\Escritorio\ClienteC#\obj\Debug\net9.0\ref\ClienteC#.dll
+C:\Users\avane\OneDrive\Escritorio\ClienteC#\obj\Debug\net9.0\ClienteC#.sourcelink.json

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 class Program
 {
     static readonly HttpClient client = new HttpClient();
-    static readonly string baseUrl = "http://localhost:5000";
+    static readonly string baseUrl = "http://"; // Utiliza por la IP del servidor FLASK 
     static async Task Main(string[] args)
     {
         while (true)
